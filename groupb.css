@@ -124,7 +124,6 @@ body {
   }
   
   .image-container {
-    width: 50%;
     aspect-ratio: 16 / 9;
     background-color: #ddd;
     margin-top: 1rem;
