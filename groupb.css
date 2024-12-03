@@ -127,10 +127,6 @@ body {
     aspect-ratio: 16 / 9;
     background-color: #ddd;
     margin-top: 1rem;
-    position: absolute; 
-    top: 50%; 
-    left: 50%; 
-    transform: translate(-50%, -50%);
   }
   
   /* Glossary Section */
